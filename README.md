@@ -1,2 +1,2 @@
-# algoritmo-formulas-matematicas
- Algoritmo de fórmulas matemáticas.
+# algoritmo-formulas
+ Algoritmo de fórmulas.
